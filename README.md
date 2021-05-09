@@ -1,6 +1,12 @@
+# Task-Tracker
+
+#### Video Demo: <URL HERE>
+
+#### Description:
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Task-Tracker](https://Amjadoudeh.github.io/Task-Tracker).
 
 ## Available Scripts
 
