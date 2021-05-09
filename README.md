@@ -1,8 +1,8 @@
 # Task-Tracker
 
-#### Video Demo: <URL HERE>
+### Video Demo: <URL HERE>
 
-#### Description:
+## Description:
 
 My project is called ## Task Tracker ## it allowe the User to Add and delete tasks and sit remider or remove it as well. for devoloping this app I used React.js with Hooks for the UI - JSON server for the backend - visaual code studio as text editor and google chrome as a browser.
 
@@ -11,17 +11,17 @@ Some famouse websites using React // FaceBook // Twiter // Insatgram.
 
 since it my pesonal app I decied to use JSON server as backend server which created a fake db as a Json file where it save my tasks and give each one of them a uniqe ID.
 
-## React app
+### `React app`
 
 first step to install a react app package is to install Node.js in our computer, this to install for the commend line or the terminal of VCS react app. This is helping as to have all the required files we need for our work. and by defualt it has some style and we can run the app to see the style and start editing our files and see the result dirctly.
 --Next-- I will explain just the folders and files that I created.
 
-### SRC Folder and The Components
+### `SRC Folder and The Components`
 
 the main idea of react is thinking about the UI as a bunch of many separate components.
 I created a new folder in Scr folder called Components which contain the files I added for each component in my App.
 
-## styling and Icons
+### `styling and Icons`
 
 I like as always to style my Web pages or Apps myself so I worte this index.css file and I installed
 react= icons.
