@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctor Appointment",
+      "day": "May 5th at 2:30pm",
+      "reminder": " true"
+    },
+    {
+      "id": "2",
+      "text": "Cs50 Finall Project",
+      "day": " May 7th at 4:30pm",
+      "reminder": " true"
+    },
+    {
+      "id": "3",
+      "text": "Burgertamt Appointment",
+      "day": "May 15th at 7:30pm",
+      "reminder": "false"
+    }
+  ]
+}
