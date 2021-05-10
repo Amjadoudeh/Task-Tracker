@@ -1,4 +1,4 @@
-# Task-Tracker :+1
+# Task-Tracker :+1:
 
 ### Video Demo: <URL HERE>
 
@@ -86,7 +86,7 @@ In my Function App():
     **return**
     Here where I return and routed all my components inside my container.
 
-## `db.JSON`
+### `db.JSON`
 
 After installing JSON server, it cearted for me a db.JSON file where take the data from the user and save it as a JSON object give it a unique ID.
 _I can also write me defualt data there_
@@ -94,7 +94,7 @@ _I can also write me defualt data there_
 ### `styling and Icons`
 
 I like as always to style my Web pages or Apps myself so I worte this index.css file and I installed
-react= icons.
+react-icons.
 
 ## Available Scripts
 
